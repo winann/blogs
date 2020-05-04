@@ -115,23 +115,20 @@ h3 a {
 }
 
 h1 {
-  max-width: 120px;
   text-align: center;
-  padding-bottom: 0.3em;
-  font-size: 1.6em;
+  font-size: 2em;
   line-height: 1.2;
-  margin: 1.5em auto 1.2em;
-  border-bottom: 2px dashed #f22f27;
+  margin: 1.5em auto 0em;
 }
 
-/*h1:after {
+h1:after {
   content: '';
   display: block;
   margin: 0.2em auto 0;
   width: 100px;
   height: 2px;
   border-bottom: 2px dashed #f22f27;
-}*/
+}
 
 h2 {
   margin: 2em auto 1em;
