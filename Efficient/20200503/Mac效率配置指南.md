@@ -1,3 +1,5 @@
+![](https://tva1.sinaimg.cn/large/007S8ZIlly1gektk0a3ahj316a0u0qv7.jpg)
+
 相信大家看完上篇文章的介绍之后，对 `Mac` 有了一定的了解。如果你还没有看，可以花几分钟看一下：[《我为什么不买Mac》](https://mp.weixin.qq.com/s/7dIwXIKO9YuNb1YPs57P7g)。你没有看错，标题就是这个样子的。如果你在了解 `Mac` 的话，强烈推荐看一下。
 
 后续的几篇文章我会介绍 `Mac` 的使用技巧和一些效率软件，欢迎关注噢 ^_^
@@ -15,7 +17,7 @@
 先介绍一下 `Mac` 下键盘和 `Windows` 不一样的地方，这样后面在介绍的时候就不陌生了（格式：键盘/英文）：
 
 1. ⌫/Delete：用于删除字符，类似于 `Windows` 下的退格键
-2. ⌘/command：空格左右两边的键，类似于 `Windows` 的 `Ctrl` 键 ，例如：复制(⌘+S)、粘贴(⌘+V)都是这个键加相应的字母。这个是使用最多的修饰符，很多快捷键都是这个键
+2. ⌘/command：空格左右两边的键，类似于 `Windows` 的 `Ctrl` 键 ，例如：复制(⌘+C)、粘贴(⌘+V)都是这个键加相应的字母。这个是使用最多的修饰符，很多快捷键都是这个键
 3. ⌃/control(Windows 里面的 ctrl)：另外一个修饰按键，就是其他快捷键会用到它了
 4. ⌥/option(Windows 里面的 alt)：又一个修饰按键，输入符号的时候用的多。也用在一些神奇的地方（后面介绍）
 5. ⇧/shift：和 `Windows` 一样，输入键盘上面的字符按着它呀
@@ -30,7 +32,7 @@
 ## 系统概览
 
 你打开你的电脑，按照苹果提示的步骤一步步的完成操作后，进入电脑大致是这样一个页面：
-![桌面](res/desktop.png)由于我已经使用过了，也打开了一些软件，可能有些不一样。不过别慌，我会一步步的介绍。
+![桌面](https://tva1.sinaimg.cn/large/007S8ZIlly1gektk1xbn9j31c00u0hdt.jpg)由于我已经使用过了，也打开了一些软件，可能有些不一样。不过别慌，我会一步步的介绍。
 
 图片最上面的一行是 `菜单栏`，左边是应用菜单：你打开应用的所有菜单选项都可以在上面找到；右边是状态菜单：输入法、日历等一些系统或者第三方菜单栏应用会出现在这里；
 
@@ -48,7 +50,7 @@
 
 ### 状态栏
 
-![状态栏](res/statusbar.png)
+![状态栏](https://tva1.sinaimg.cn/large/007S8ZIlly1gektjti1tdj30b104ydg7.jpg)
 
 上面是状态栏的各种图标，这里的图标除了最右边的`今天和通知中心`的按钮，其他按钮都可以移动和移除的，方法如下：
 
@@ -63,7 +65,7 @@
 
 在这里还有新建窗口和退出程序的菜单，右键点击就能看到：
 
-![](res/dock.png)
+![](https://tva1.sinaimg.cn/large/007S8ZIlly1gektk10i99j30ls0gqq6f.jpg)
 
 如果想要这种点击的图标放大的效果，可以打开`系统偏好设置-程序坞`（也可以在 `Dock/程序坞` 的空白处点击右键打开`Dock Preferences/程序坞偏好设置`），把放大勾选上，还有其他的一些设置，你可以按需求设置。
 
@@ -83,7 +85,7 @@
 
  然后登录你的 `Apple ID` ，搜索想要的应用下载就行了，例如搜索 `Office` 并点进去，点 `GET/获取` 就可以了，如果是收费的，这个获取按钮会变成价格。
 
-![](res/appstore.png)
+![](https://tva1.sinaimg.cn/large/007S8ZIlly1gektjyw6ntj31cw0u0wod.jpg)
 
 ### 网页下载的程序安装
 
@@ -91,7 +93,7 @@
 
 一般下载的应用都是 `DMG` 后缀的格式，这个是 `Mac` 下标准程序的安装格式，打开之后一般都是一个 `App` 图标，拖动到应用程序文件夹就好了（安装程序窗口会有程序文件夹）:
 
-![](res/install-app.gif)
+![](https://tva1.sinaimg.cn/large/007S8ZIlly1gektjuwkopj30f209z3z6.jpg)
 
 安装程序是不是很简单，没有各种提示：是否安装 XXX 管家，是否安装 XXX 杀毒；所以也不用小心翼翼的了
 
@@ -103,7 +105,7 @@
 
 这时候 `App Store` 下载的程序左上角会有叉，点它就可以删除了，如下图 QQ：
 
-![](res/uninstall.png)
+![](https://tva1.sinaimg.cn/large/007S8ZIlly1gektk3b712j3090084aa7.jpg)
 你可能会问了：为什么都在抖动呢？因为他们都害怕被删除啊。
 
 这时候你又要问了：为什么系统的不能删除的应用也在抖动？Emm……，他们是在得瑟。
@@ -122,17 +124,17 @@
 
 另外如果你用的是带 `Touch Bar` 的 `MacBook Pro`，可以在这里定义相应的按键
 
-![](res/keyboard.png)
+![](https://tva1.sinaimg.cn/large/007S8ZIlly1gektjxse60j30yi0u0n2d.jpg)
 
 ### Text/文本替换：
 
 在这里你可以存储一些快捷短语，比方说你经常输入手机号，可以定义一个**Replace/输入码**，输入之后来替换成想要出现的短语**With/短语**：
 
-![](res/text.png)
+![](https://tva1.sinaimg.cn/large/007S8ZIlly1gektjtyhquj30za05y0tq.jpg)
 
 比如说我把电脑的几个符号设置成了 `dn`，我输入这两个字母的时候会提示我这几个符号：
 
-![](res/dn.png)
+![](https://tva1.sinaimg.cn/large/007S8ZIlly1gektjvcnbbj30mk03gaac.jpg)
 
 细心的同学在我菜单栏的图标里已经发现了：我使用的是双拼，所以 dn 这两个字母本来是**电脑**的首字母，现在出来的是双拼的结果，大家不要惊讶为什么截图这么 *dn* 就行。
 
@@ -140,7 +142,7 @@
 
 这里面可以查看系统的快捷键，比方说截屏、切换输入法，当然也可以在这里设置应用的快捷键。比方说我设置了一个缩放窗口的快捷键：
 
-![](res/shortcuts.png)
+![](https://tva1.sinaimg.cn/large/007S8ZIlly1gektjwcj71j30yi0u0aek.jpg)
 
 这个快捷键是让窗口在屏幕最大和原来的尺寸之间进行变化，这个菜单一般在应用菜单的："Window/窗口" 下面
 
@@ -160,7 +162,7 @@
 
 另外可以把 `Tracking speed/跟踪速度` 设置到你所能承受的尽可能大，这样才能发挥触控板的威力😄
 
-![](res/point_click.png)
+![](https://tva1.sinaimg.cn/large/007S8ZIlly1gektjwz705j31140smdm4.jpg)
 
 ### More Gestures/更多手势
 
@@ -176,7 +178,7 @@
 
 **其他在触控板设置里面的的所有手势，都需要看一下，这就是很多人不需要鼠标的秘密**
 
-![](res/more_gesture.png)
+![](https://tva1.sinaimg.cn/large/007S8ZIlly1gektjujnmjj31140smn3c.jpg)
 
 ### Accessibility/辅助功能
 
@@ -186,7 +188,7 @@
 
 这个效果是三个指头在触控板上，可以选择文字和拖动窗口，相当于按下去移动（鼠标左键按下去拖动）。因为这个原因，所以在上面**更多手势**里面把两个东西设置成了四指。
 
-![](res/track.png)
+![](https://tva1.sinaimg.cn/large/007S8ZIlly1gektjy7mmbj31120q60wu.jpg)
 
 # 其他小技巧
 
@@ -214,7 +216,7 @@
 
 下面看一下官方给出的所有权限的说明：
 
-![](res/privacy.png)
+![](https://tva1.sinaimg.cn/large/007S8ZIlly1gektjw3ktxj30u01r9tvu.jpg)
 
 ## ⌥/option 的使用
 
@@ -255,7 +257,7 @@
 4. 临时存放的东西可以放到桌面，到时候直接删除（这样可以保持桌面的清洁）
 5. 可以把下载文件夹当作临时文件夹，也可以在自己的文件夹里面添加临时文件夹，临时下载或者使用的文件放到里面，定时清理
 
-![](res/selfdir.png)
+![](https://tva1.sinaimg.cn/large/007S8ZIlly1gektk2rf05j31c00u07wh.jpg)
 
 这个只是我的使用习惯，相信你在使用一段时间之后，有自己的一套习惯。
 
@@ -279,4 +281,4 @@
 
 如有需要，欢迎关注我的公众号，大家一起学习：
 
-![](../../Resources/Winann.jpg)
+![](https://tva1.sinaimg.cn/large/007S8ZIlly1gektjx8xlgj30nw0nwacp.jpg)
