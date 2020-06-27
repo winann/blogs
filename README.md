@@ -9,11 +9,11 @@
 
 
 1. [我为什么不买Mac](./Efficient/20200421/我为什么不买Mac.md)
-2. [Mac效率开箱配置指南](Efficient/20200503/Mac效率开箱配置指南.md)
-3. [Mac 自带软件-聚焦搜索](Efficient/20200511/Mac 自带软件-聚焦搜索.md)
-4. [如何在 Mac 上优雅的截图和录屏](Efficient/20200514/如何在 Mac 上优雅的截图和录屏.md)
-5. [你真的会用 Mac 中的 Finder吗](Efficient/20200525/你真的会用 Mac 中的 Finder吗.md)
-6. [Mac 使用预览 App 编辑图片和PDF](Efficient/20200609/Mac 使用预览 App 编辑图片和PDF)
+2. [Mac效率配置指南](./Efficient/20200503/Mac效率配置指南.md)
+3. [Mac 自带软件-聚焦搜索](./Efficient/20200511/Mac 自带软件-聚焦搜索.md)
+4. [如何在 Mac 上优雅的截图和录屏](./Efficient/20200514/如何在 Mac 上优雅的截图和录屏.md)
+5. [你真的会用 Mac 中的 Finder吗](./Efficient/20200525/你真的会用 Mac 中的 Finder吗.md)
+6. [Mac 使用预览 App 编辑图片和PDF](./Efficient/20200609/Mac 使用预览 App 编辑图片和PDF.md)
 
 # 编程
 
@@ -34,11 +34,11 @@
 
 ## 技术公众号
 
-![Winann](Resources/Winann.jpg)
+![Winann](./Resources/Winann.png)
 
 ## 生活公众号
 
-![安然若宋](Resources/安然若宋.jpg)
+![安然若宋](./Resources/安然若宋.png)
 
 # 博客地址
 
