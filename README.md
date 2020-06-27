@@ -1,8 +1,10 @@
 # blogs
 
-> 作为文章的备份
+> 希望以后能多写文章，坚持下去
 
-希望以后能多写文章，坚持下去
+# 博客地址
+
+[Winann 的官方网站](http://www.swinann.com)
 
 # 效率
 
@@ -40,7 +42,4 @@
 
 ![安然若宋](./Resources/安然若宋.png)
 
-# 博客地址
-
-[Winann 的官方网站](http://www.swinann.com)
 
