@@ -10,10 +10,10 @@
 
 1. [我为什么不买Mac](./Efficient/20200421/我为什么不买Mac.md)
 2. [Mac效率配置指南](./Efficient/20200503/Mac效率配置指南.md)
-3. [Mac 自带软件-聚焦搜索](./Efficient/20200511/Mac 自带软件-聚焦搜索.md)
-4. [如何在 Mac 上优雅的截图和录屏](./Efficient/20200514/如何在 Mac 上优雅的截图和录屏.md)
-5. [你真的会用 Mac 中的 Finder吗](./Efficient/20200525/你真的会用 Mac 中的 Finder吗.md)
-6. [Mac 使用预览 App 编辑图片和PDF](./Efficient/20200609/Mac 使用预览 App 编辑图片和PDF.md)
+3. [Mac自带软件-聚焦搜索](./Efficient/20200511/Mac%20自带软件-聚焦搜索.md)
+4. [如何在Mac上优雅的截图和录屏](./Efficient/20200514/如何在%20Mac%20上优雅的截图和录屏.md)
+5. [你真的会用Mac中的Finder吗](./Efficient/20200525/你真的会用%20Mac%20中的%20Finder吗.md)
+6. [Mac使用预览App编辑图片和PDF](./Efficient/20200609/Mac%20使用预览%20App%20编辑图片和PDF.md)
 
 # 编程
 
