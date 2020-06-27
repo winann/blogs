@@ -34,11 +34,11 @@
 
 # 公众号
 
-## 技术公众号
+## 技术公众号（Winann）
 
 ![Winann](./Resources/Winann.png)
 
-## 生活公众号
+## 生活公众号（安然若宋）
 
 ![安然若宋](./Resources/安然若宋.png)
 
