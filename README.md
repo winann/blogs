@@ -16,7 +16,7 @@
 4. [如何在Mac上优雅的截图和录屏](./Efficient/20200514/如何在Mac上优雅的截图和录屏.md)
 5. [你真的会用Mac中的Finder吗](./Efficient/20200525/你真的会用Mac中的Finder吗.md)
 6. [Mac使用预览App编辑图片和PDF](./Efficient/20200609/Mac使用预览App编辑图片和PDF.md)
-7. [macOS Big Sur、iOS14测试版描述文件](Efficient/20200623/macOS Big Sur、iOS14测试版描述文件.md)
+7. [macOS Big Sur、iOS14测试版描述文件](Efficient/20200623/macOS_Big_Sur、iOS14测试版描述文件.md)
 8. [Mac必备软件](Efficient/20200630/Mac必备软件.md)
 
 # 编程
